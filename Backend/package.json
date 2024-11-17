@@ -1,0 +1,20 @@
+{
+  "name": "convosim",
+  "version": "1.0.0",
+  "description": "File converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Kanika",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docx-pdf": "^0.0.1",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "start": "^5.1.0"
+  }
+}
